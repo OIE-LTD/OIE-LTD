@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 08fbff26-a641-4e72-92c0-8d25b363a0f1
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/OIE-LTD/OIE-LTD
+  toc:
+    - file: index.md
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
